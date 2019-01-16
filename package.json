@@ -1,0 +1,43 @@
+{
+  "_args": [
+    [
+      "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+  "_id": "react-native-media-kit@git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git#9e4a7571dc20cdfa8882304544eb6da30852e861",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-media-kit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+    "rawSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+    "saveSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+    "fetchSpec": "https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git#9e4a7571dc20cdfa8882304544eb6da30852e861",
+  "_spec": "git+https://gitlab.intecracy.com/LabArchives/react-native-media-kit.git",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "author": "",
+  "dependencies": {
+    "@ldn0x7dc/react-native-slider": "file:@ldn0x7dc/react-native-slider"
+  },
+  "description": "Video and Audio component for react-native apps, supporting both iOS and Android.",
+  "keywords": [
+    "video",
+    "audio",
+    "media",
+    "react-native"
+  ],
+  "license": "ISC",
+  "main": "library/index.js",
+  "name": "react-native-media-kit",
+  "version": "0.0.4"
+}
