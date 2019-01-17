@@ -27,7 +27,7 @@
   "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
   "author": "",
   "dependencies": {
-    "@ldn0x7dc/react-native-slider": "file:@ldn0x7dc/react-native-slider"
+    "@ldn0x7dc/react-native-slider": "git+https://github.com/mobileRndUnit/react-native-slider.git"
   },
   "description": "Video and Audio component for react-native apps, supporting both iOS and Android.",
   "keywords": [
